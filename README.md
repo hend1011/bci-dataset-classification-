@@ -33,11 +33,6 @@ you.
   
       sudo apt-get install python3-numpy python3-scipy liblapack-dev libatlas-base-dev libgsl0-dev fftw-dev libglpk-dev libdsdp-dev
 
-## Get the source
-
-Clone the Git repository from GitHub
-
-    git clone https://github.com/aljarrahcs/EvoloPy-FS.git , https://github.com/rubaabukhurma/EvoloPy-FS.git
 
 
 ## Quick User Guide
@@ -100,34 +95,6 @@ The results file contains the following measures:
     Iter1	Iter2 Iter3... : Convergence values (The number of features after every iteration).	
     
 
-## Contribute
-- Issue Tracker: https://github.com/aljarrahcs/EvoloPy-FS/issues, https://github.com/rubaabukhurma/EvoloPy-FS/issues.
-- Source Code: https://github.com/aljarrahcs/EvoloPy-FS , https://github.com/rubaabukhurma/EvoloPy-FS
 
-## Support
-
-Use the [issue tracker](https://github.com/aljarrahcs/EvoloPy-FS/issues). 
-
-## Citation Request:
-
-Please include these citations if you plan to use this Framework:
-
-- Ruba Abu Khurma, Ibrahim Aljarah, Ahmad Sharieh, and Seyedali Mirjalili. Evolopy-fs: An
-open-source nature-inspired optimization framework in python for feature selection. In Evolutionary
-Machine Learning Techniques, pages 131–173. Springer, 2020.
-
-- Khurma, Ruba Abu, Ibrahim Aljarah, and Ahmad Sharieh. "An Efficient Moth Flame Optimization Algorithm using Chaotic Maps for Feature Selection in the Medical Applications."
-
-- Hossam Faris, Ibrahim Aljarah, Sayedali Mirjalili, Pedro Castillo, and J.J Merelo. "EvoloPy: An Open-source Nature-inspired Optimization Framework in Python". In Proceedings of the 8th International Joint Conference on Computational Intelligence - Volume 3: ECTA,ISBN 978-989-758-201-1, pages 171-177.
-
-- Hossam Faris, Ali Asghar Heidari, Al-Zoubi Ala’M, Majdi Mafarja, Ibrahim Aljarah, Mohammed
-Eshtay, and Seyedali Mirjalili. Time-varying hierarchical chains of salps with random weight networks
-for feature selection. Expert Systems with Applications, page 112898, 2019.
-
-- Majdi Mafarja,Ibrahim Aljarah, Ali Asghar Heidari, Hossam Faris, Philippe Fournier-Viger,Xiaodong Li, and Seyedali Mirjalili.  Binary dragonfly optimization for feature selection using time-varying transfer functions. Knowledge-Based Systems, 161:185–204, 2018.
-
-- Ibrahim Aljarah, Majdi Mafarja, Ali Asghar Heidari, Hossam Faris, Yong Zhang, and Seyedali Mirjalili. Asynchronous accelerating multi-leader salp chains for feature selection. Applied Soft Computing, 71:964–979, 2018.
-
-- Hossam Faris, Majdi M Mafarja, Ali Asghar Heidari,Ibrahim Aljarah, Al-Zoubi Ala’M, Seyedali Mirjalili, and  Hamido Fujita.   An  efficient binary salp swarm algorithm  with crossover  scheme for feature selection problems. Knowledge-Based Systems, 154:43–67, 2018.
 
 
