@@ -2,8 +2,7 @@
 """
 Created on Wed Feb  3 01:04:28 2021
 
-@author: Mohanmmed
-"""
+
 
 import pandas as pd
 import random
