@@ -2,8 +2,7 @@
 """
 Created on Tue Jan 21 23:47:08 2020
 
-@author: tc
-"""
+
 
 # -*- coding: utf-8 -*-
 """
