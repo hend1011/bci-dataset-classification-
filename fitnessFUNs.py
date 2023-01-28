@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Mohammed Qaraad
 """
 
 import numpy as np
