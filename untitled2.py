@@ -2,7 +2,6 @@
 """
 Created on Sat Apr  3 11:57:16 2021
 
-@author: Mohanmmed
 """
 from sklearn.preprocessing import MinMaxScaler,LabelEncoder
 import pandas as pd
