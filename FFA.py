@@ -2,8 +2,7 @@
 """
 Created on Tue Dec 27 12:46:20 2019
 
-@author: Ibrahim Aljarah, and Ruba Abu Khurma 
-"""
+
 
 #% ======================================================== % 
 #% Files of the Matlab programs included in the book:       %
