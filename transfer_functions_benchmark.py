@@ -1,7 +1,6 @@
 """
 C
 
-@author: Mohammed Qaraad
 """
 
 
